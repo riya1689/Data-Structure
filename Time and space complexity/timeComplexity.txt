@@ -1,0 +1,27 @@
+Time Complexity	      Name	          Input Range (approximate)
+
+O(1)   ------      Constant Time	  -------   Any input size
+
+O(log n) ------    Logarithmic Time	  ------   10 to 10^10
+
+O(sqrt(n)) ------   Square Root Time  ------   	1 to 10^10
+
+O(n)    ------    	Linear Time        ------  	10 to 10^7
+
+O(n log n) ------  	Linearithmic Time   ------ 	10 to 10^6
+
+O(n^2) ------ 	      Quadratic Time    ------ 10 to 10^4
+
+O(n^c) (where c>1) ------ Polynomial Time -----	10 to 10^3
+
+O(2^n) ------	      Exponential Time      ------ 2 to 20
+
+O(n!) ------            Factorial Time	------      2 to 10
+
+
+10^7 operation  1 s
+
+10^8 operation  10 s
+
+10^9 operation  100 s
+
